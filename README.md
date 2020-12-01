@@ -1,8 +1,7 @@
-# This is legacy code, and no longer works with discord.js
+# Abandon All Hope, Ye Who Enter Here
 
 # ModBot
 
-previously, this used to be my personal notification / banning bot for the starbot discord,
-but that was a looooong time ago. this repo is left here as an example of what not to do.
+A remnant of the past, this single file of node.js code ran on a long-since-depreciated version of discord.js to moderate my server dedicated to a much larger STAR_BOT project. I am leaving this up for nostalgia purposes, but it contains no useful data, and serves no purpose other than to look cool and have more than one repository on my profile. 
 
 reiterating: this code does not work, and isn't supported. don't try to use it.
